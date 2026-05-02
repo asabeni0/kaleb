@@ -41,7 +41,7 @@ CORS(app)
 # ============================================
 # CHANGE THIS NUMBER PER SERVER
 # ============================================
-SERVER_NUMBER = 3  # 1=Dil, 2=sofu, 3=bebby, 4=kaleb, 5=fitsum
+SERVER_NUMBER = 4  # 1=Dil, 2=sofu, 3=bebby, 4=kaleb, 5=fitsum
 
 SERVERS = {
     1: {'name': 'Dil', 'api_id': 35790598, 'api_hash': 'fa9f62d821f04b03d76d53175e367736', 'url': 'https://dilbedil.onrender.com'},
