@@ -1,4 +1,5 @@
 services:
+  # Main Auto-Add Server
   - type: web
     name: auto-add-server
     runtime: python
